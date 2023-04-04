@@ -1,2 +1,5 @@
-this is another new cool feature for the site
+this is another new cool feature for the site 
 
+
+
+added some new feature by dev2
