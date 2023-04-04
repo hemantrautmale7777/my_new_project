@@ -1,3 +1,6 @@
+<<<<<<< HEAD
  added a new feature by dev2
 
 added feature by dev3
+apna new feature added
+
